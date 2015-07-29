@@ -1,0 +1,7 @@
+java/bin
+java/config
+datasets
+bash/sync.sh
+analysis/create.sh
+analysis/jobs.*
+analysis/*.jar
