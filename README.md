@@ -25,6 +25,7 @@ For each dataset, the following files are available:
 - `out.$name` - original dataset
 - `README.$name` - original README file with some information about the dataset
 - `sorted.$name` - processed dataset (sorted by timestamp)
+- `STATS.$name` - stats generated for the dataset
 
 In some cases, additional meta data is included in case it is available on the Konect project page.
 So far we have not used any meta data and hece do not list any specifics here.
