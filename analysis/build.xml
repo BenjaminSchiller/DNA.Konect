@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="all" name="analysis">
+
+    <target name="all" depends="analysis">
+    </target>
+
+    <target name="analysis">
+        <jar destfile="analysis.jar" filesetmanifest="mergewithoutmain">
+            <manifest>
+                <attribute name="Main-Class" value="dna.konect.analysis.Analysis"/>
+                <attribute name="Class-Path" value="."/>
+            </manifest>
+            <fileset dir="../java/bin"/>
+            <fileset dir="../java/config"/>
+            <fileset dir="../../DNA/bin"/>
+            <zipgroupfileset dir="../../DNA/lib/" includes="**/*.jar" />
+        </jar>
+    </target>
+
+</project>
