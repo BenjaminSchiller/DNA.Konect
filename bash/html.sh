@@ -20,28 +20,23 @@ for et in $(ls datasets/); do
 		title=$(head -1 "datasets/$et/$name/README.$name" | cut -d ',' -f1)
 		description=$(head -6 "datasets/$et/$name/README.$name" | tail -1)
 		url=$(head -10 "datasets/$et/$name/README.$name" | tail -1)
-		if [[ $description == *"undirected"* ]]; then
-			img="U"
-		elif [[ $description == *"directed"* ]]; then
-			img="D"
-		elif [[ $description == *"bipartite"* ]]; then
-			img="B"
-		elif [[ $name == *"sociopatterns"* ]]; then
-			img="U"
-		elif [[ $name == *"enron"* || $name == *"topology"* ]]; then
-			img="D"
-		else
-			img=""
-			echo "</br></br></br>unknown direction of the graph '$name'</br></br></br>"
+		html="datasets/$et/$name/$name.html"
+
+		if [[ -n "$(cat $html | grep 'B.png')" ]]; then connection="B"
+		elif [[ -n "$(cat $html | grep 'D.png')" ]]; then connection="D"
+		elif [[ -n "$(cat $html | grep 'U.png')" ]]; then connection="U"
+		else connection="unknown"
 		fi
 
-		echo "<h2>$name - $title ($a) <img src='img/$img.png' title='$img' alt='$img'/> <img src='img/$et.png' title='$et' alt='$et'/></h2>"
+		echo "<h2>$name - $title ($a) <img src='img/$connection.png' title='$connection' alt='$connection'/> <img src='img/$et.png' title='$et' alt='$et'/></h2>"
 		echo "<i>$description</i></br>"
 		echo "<a href='$url'>$url</a></br>"
 		img z.statistics.nodes.png 'node count'
 		img z.statistics.updates.nodes.png 'node updates'
 		img z.statistics.edges.png 'edge count'
 		img z.statistics.updates.edges.png 'edge updates'
+		echo "</br>"
+		img AssortativityR-out-unweighted.AssortativityCoefficient.png 'assortativity'
 		echo "</br>"
 		img DegreeDistributionR.degreeMin.png 'min degree'
 		img DegreeDistributionR.degreeMax.png 'max degree'

@@ -15,7 +15,7 @@ function stats {
 	line="$et;$name"
 
 	readme="datasets/$et/$name/README.$name"
-	if [[ -e $readme ]]; then
+	if [[ -e $readme || -h $readme ]]; then
 		title=$(head -1 $readme | cut -d ',' -f1)
 		description=$(head -6 $readme | tail -1)
 		url=$(head -10 $readme | tail -1)
@@ -32,7 +32,7 @@ function stats {
 	fi
 
 	html="datasets/$et/$name/$name.html"
-	if [[ -e $html ]]; then
+	if [[ -e $html || -h $html ]]; then
 		if [[ -n "$(cat $html | grep 'B.png')" ]]; then connection="B"
 		elif [[ -n "$(cat $html | grep 'D.png')" ]]; then connection="D"
 		elif [[ -n "$(cat $html | grep 'U.png')" ]]; then connection="U"
@@ -48,7 +48,7 @@ function stats {
 	fi
 
 	file="datasets/$et/$name/sorted.$name"
-	if [[ -e $file ]]; then
+	if [[ -e $file || -h $file ]]; then
 		statistics=$(cat $file | awk '{if(min==""){min=max=$3}; if($3>max) {max=$3}; if($3<min) {min=$3}; total+=$3; count+=1} END {print count, min, max}')
 		edges=$(echo $statistics | awk '{print $1}')
 		minWeight=$(echo $statistics | awk '{print $2}')
@@ -119,7 +119,9 @@ else
 
 	for et in $(ls datasets); do
 		for name in $(ls datasets/$et); do
-			stats $et $name > datasets/$et/$name/STATS.$name
+			if [[ ! -e "datasets/$et/$name/STATS.$name" ]]; then
+				stats $et $name > datasets/$et/$name/STATS.$name
+			fi
 			cat datasets/$et/$name/STATS.$name
 		done
 	done
