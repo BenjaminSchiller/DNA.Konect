@@ -1,0 +1,1915 @@
+et;name;title;url;connection;edges;filesize;minWeight;maxWeight;minTimestamp;maxTimestamp;duration;durationPerEdge;hours;days;weeks;years
+- - - - - - - - - - - - - - - - - - - -
+- - - ADD/ca-cit-HepPh
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  ADD
+Name:       ca-cit-HepPh
+
+Title:        arXiv hep-ph network
+URL: 	        http://konect.uni-koblenz.de/networks/ca-cit-HepPh
+
+Description:  This is the collaboration graph of authors of scientific papers from the arXiv's High Energy Physics – Phenomenology (hep-ph) section. An edge between two authors represents a common publication. Timestamps denote the date of a publication.
+
+Connection:  U
+
+Edges:       4596803
+File Size:   104331240
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       700614000
+Max Timestamp:       1015887601
+Duration:            315273601
+Duration per Edge:   68
+Duration - Hours:    87576
+Duration - Days:     3649
+Duration - Weeks:    521
+Duration - Years:    1
+
+ADD;ca-cit-HepPh;arXiv hep-ph network;http://konect.uni-koblenz.de/networks/ca-cit-HepPh;U;4596803;104331240;1;1;700614000;1015887601;315273601;68;87576;3649;521;1
+- - - - - - - - - - - - - - - - - - - -
+- - - ADD/ca-cit-HepTh
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  ADD
+Name:       ca-cit-HepTh
+
+Title:        arXiv hep-th network
+URL: 	        http://konect.uni-koblenz.de/networks/ca-cit-HepTh
+
+Description:  This is the collaboration graph of authors of scientific papers from the arXiv's High Energy Physics – Theory (hep-th) section. An edge between two authors represents a common publication. Timestamps denote the date of a publication.
+
+Connection:  U
+
+Edges:       2673133
+File Size:   61202214
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       749430000
+Max Timestamp:       1015887601
+Duration:            266457601
+Duration per Edge:   99
+Duration - Hours:    74016
+Duration - Days:     3084
+Duration - Weeks:    440
+Duration - Years:    1
+
+ADD;ca-cit-HepTh;arXiv hep-th network;http://konect.uni-koblenz.de/networks/ca-cit-HepTh;U;2673133;61202214;1;1;749430000;1015887601;266457601;99;74016;3084;440;1
+- - - - - - - - - - - - - - - - - - - -
+- - - ADD/facebook-wosn-links
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  ADD
+Name:       facebook-wosn-links
+
+Title:        Facebook friendships network
+URL: 	        http://konect.uni-koblenz.de/networks/facebook-wosn-links
+
+Description:  This undirected network contains friendship data of facebook users. A node represents a user and an edge represents a friendship between two users.
+
+Connection:  U
+
+Edges:       817035
+File Size:   15484920
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       0
+Max Timestamp:       1232231923
+Duration:            1232231923
+Duration per Edge:   1508
+Duration - Hours:    342286
+Duration - Days:     14261
+Duration - Weeks:    2037
+Duration - Years:    5
+
+ADD;facebook-wosn-links;Facebook friendships network;http://konect.uni-koblenz.de/networks/facebook-wosn-links;U;817035;15484920;1;1;0;1232231923;1232231923;1508;342286;14261;2037;5
+- - - - - - - - - - - - - - - - - - - -
+- - - ADD/flickr-growth
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  ADD
+Name:       flickr-growth
+
+Title:        Flickr network
+URL: 	        http://konect.uni-koblenz.de/networks/flickr-growth
+
+Description:  This is the social network of Flickr users and their friendship connections.
+
+Connection:  D
+
+Edges:       33140017
+File Size:   901528591
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       1162422000
+Max Timestamp:       1179439200
+Duration:            17017200
+Duration per Edge:   0
+Duration - Hours:    4727
+Duration - Days:     196
+Duration - Weeks:    28
+Duration - Years:    0
+
+ADD;flickr-growth;Flickr network;http://konect.uni-koblenz.de/networks/flickr-growth;D;33140017;901528591;1;1;1162422000;1179439200;17017200;0;4727;196;28;0
+- - - - - - - - - - - - - - - - - - - -
+- - - ADD/stackexchange-stackoverflow
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  ADD
+Name:       stackexchange-stackoverflow
+
+Title:        Stack Overflow network
+URL: 	        http://konect.uni-koblenz.de/networks/stackexchange-stackoverflow
+
+Description:  This is the bipartite Stack Overflow favorite network. Stack Overflow is the main question and answer website of the Stack Exchange Network. The nodes represent users and posts. An undirected, unweighted edge denotes that a user has marked a post as a favorite.
+
+Connection:  B
+
+Edges:       1301942
+File Size:   32743922
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       1222992000
+Max Timestamp:       1322611200
+Duration:            99619200
+Duration per Edge:   76
+Duration - Hours:    27672
+Duration - Days:     1153
+Duration - Weeks:    164
+Duration - Years:    0
+
+ADD;stackexchange-stackoverflow;Stack Overflow network;http://konect.uni-koblenz.de/networks/stackexchange-stackoverflow;B;1301942;32743922;1;1;1222992000;1322611200;99619200;76;27672;1153;164;0
+- - - - - - - - - - - - - - - - - - - -
+- - - ADD/wikipedia-growth
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  ADD
+Name:       wikipedia-growth
+
+Title:        Wikipedia
+URL: 	        http://konect.uni-koblenz.de/networks/wikipedia-growth
+
+Description:  This is the hyperlink network of the English Wikipedia with edge arrival times.
+
+Connection:  D
+
+Edges:       39953145
+File Size:   1092177668
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       982623600
+Max Timestamp:       1175810400
+Duration:            193186800
+Duration per Edge:   4
+Duration - Hours:    53663
+Duration - Days:     2235
+Duration - Weeks:    319
+Duration - Years:    0
+
+ADD;wikipedia-growth;Wikipedia;http://konect.uni-koblenz.de/networks/wikipedia-growth;D;39953145;1092177668;1;1;982623600;1175810400;193186800;4;53663;2235;319;0
+- - - - - - - - - - - - - - - - - - - -
+- - - ADD/youtube-u-growth
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  ADD
+Name:       youtube-u-growth
+
+Title:        YouTube network
+URL: 	        http://konect.uni-koblenz.de/networks/youtube-u-growth
+
+Description:  This is the social network of YouTube users and their friendship connections.
+
+Connection:  U
+
+Edges:       9375374
+File Size:   257137841
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       1165705200
+Max Timestamp:       1185141600
+Duration:            19436400
+Duration per Edge:   2
+Duration - Hours:    5399
+Duration - Days:     224
+Duration - Weeks:    32
+Duration - Years:    0
+
+ADD;youtube-u-growth;YouTube network;http://konect.uni-koblenz.de/networks/youtube-u-growth;U;9375374;257137841;1;1;1165705200;1185141600;19436400;2;5399;224;32;0
+- - - - - - - - - - - - - - - - - - - -
+- - - ADD_REMOVE/link-dynamic-dewiki
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  ADD_REMOVE
+Name:       link-dynamic-dewiki
+
+Title:        Wikipedia
+URL: 	        http://konect.uni-koblenz.de/networks/link-dynamic-dewiki
+
+Description:  This network shows the evolution of hyperlinks between artikels of the German Wikipedia. The nodes represent articles. An edge indicates that a hyperlink was added or removed depending on the edge weight (-1 for removal or +1 for addition).
+
+Connection:  D
+
+Edges:       86337879
+File Size:   2347439031
+Min Weight:  -1
+Max Weight:  +1
+
+Min Timestamp:       0986236061
+Max Timestamp:       1313292261
+Duration:            327056200
+Duration per Edge:   3
+Duration - Hours:    90848
+Duration - Days:     3785
+Duration - Weeks:    540
+Duration - Years:    1
+
+ADD_REMOVE;link-dynamic-dewiki;Wikipedia;http://konect.uni-koblenz.de/networks/link-dynamic-dewiki;D;86337879;2347439031;-1;+1;0986236061;1313292261;327056200;3;90848;3785;540;1
+- - - - - - - - - - - - - - - - - - - -
+- - - ADD_REMOVE/link-dynamic-frwiki
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  ADD_REMOVE
+Name:       link-dynamic-frwiki
+
+Title:        Wikipedia
+URL: 	        http://konect.uni-koblenz.de/networks/link-dynamic-frwiki
+
+Description:  This network shows the evolution of hyperlinks between artikels of the French Wikipedia. The nodes represent articles. An edge indicates that a hyperlink was added or removed depending on the edge weight (-1 for removal or +1 for addition).
+
+Connection:  D
+
+Edges:       59008831
+File Size:   1589320391
+Min Weight:  -1
+Max Weight:  +1
+
+Min Timestamp:       996928604
+Max Timestamp:       1308320294
+Duration:            311391690
+Duration per Edge:   5
+Duration - Hours:    86497
+Duration - Days:     3604
+Duration - Weeks:    514
+Duration - Years:    1
+
+ADD_REMOVE;link-dynamic-frwiki;Wikipedia;http://konect.uni-koblenz.de/networks/link-dynamic-frwiki;D;59008831;1589320391;-1;+1;996928604;1308320294;311391690;5;86497;3604;514;1
+- - - - - - - - - - - - - - - - - - - -
+- - - ADD_REMOVE/link-dynamic-itwiki
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  ADD_REMOVE
+Name:       link-dynamic-itwiki
+
+Title:        Wikipedia
+URL: 	        http://konect.uni-koblenz.de/networks/link-dynamic-itwiki
+
+Description:  This network shows the evolution of hyperlinks between artikels of the Italian Wikipedia. The nodes represent articles. An edge indicates that a hyperlink was added or removed depending on the edge weight (-1 for removal or +1 for addition).
+
+Connection:  D
+
+Edges:       34826283
+File Size:   925194989
+Min Weight:  -1
+Max Weight:  +1
+
+Min Timestamp:       1012436407
+Max Timestamp:       1307904277
+Duration:            295467870
+Duration per Edge:   8
+Duration - Hours:    82074
+Duration - Days:     3419
+Duration - Weeks:    488
+Duration - Years:    1
+
+ADD_REMOVE;link-dynamic-itwiki;Wikipedia;http://konect.uni-koblenz.de/networks/link-dynamic-itwiki;D;34826283;925194989;-1;+1;1012436407;1307904277;295467870;8;82074;3419;488;1
+- - - - - - - - - - - - - - - - - - - -
+- - - ADD_REMOVE/link-dynamic-nlwiki
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  ADD_REMOVE
+Name:       link-dynamic-nlwiki
+
+Title:        Wikipedia
+URL: 	        http://konect.uni-koblenz.de/networks/link-dynamic-nlwiki
+
+Description:  This network shows the evolution of hyperlinks between artikels of the Dutch Wikipedia. The nodes represent articles. An edge indicates that a hyperlink was added or removed depending on the edge weight (-1 for removal or +1 for addition).
+
+Connection:  D
+
+Edges:       20070561
+File Size:   531783119
+Min Weight:  -1
+Max Weight:  +1
+
+Min Timestamp:       999028376
+Max Timestamp:       1310296854
+Duration:            311268478
+Duration per Edge:   15
+Duration - Hours:    86463
+Duration - Days:     3602
+Duration - Weeks:    514
+Duration - Years:    1
+
+ADD_REMOVE;link-dynamic-nlwiki;Wikipedia;http://konect.uni-koblenz.de/networks/link-dynamic-nlwiki;D;20070561;531783119;-1;+1;999028376;1310296854;311268478;15;86463;3602;514;1
+- - - - - - - - - - - - - - - - - - - -
+- - - ADD_REMOVE/link-dynamic-plwiki
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  ADD_REMOVE
+Name:       link-dynamic-plwiki
+
+Title:        Wikipedia
+URL: 	        http://konect.uni-koblenz.de/networks/link-dynamic-plwiki
+
+Description:  This network shows the evolution of hyperlinks between artikels of the Polish Wikipedia. The nodes represent articles. An edge indicates that a hyperlink was added or removed depending on the edge weight (-1 for removal or +1 for addition).
+
+Connection:  D
+
+Edges:       25026208
+File Size:   662147200
+Min Weight:  -1
+Max Weight:  +1
+
+Min Timestamp:       1001930225
+Max Timestamp:       1309039235
+Duration:            307109010
+Duration per Edge:   12
+Duration - Hours:    85308
+Duration - Days:     3554
+Duration - Weeks:    507
+Duration - Years:    1
+
+ADD_REMOVE;link-dynamic-plwiki;Wikipedia;http://konect.uni-koblenz.de/networks/link-dynamic-plwiki;D;25026208;662147200;-1;+1;1001930225;1309039235;307109010;12;85308;3554;507;1
+- - - - - - - - - - - - - - - - - - - -
+- - - ADD_REMOVE/link-dynamic-simplewiki
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  ADD_REMOVE
+Name:       link-dynamic-simplewiki
+
+Title:        Wikipedia
+URL: 	        http://konect.uni-koblenz.de/networks/link-dynamic-simplewiki
+
+Description:  This network shows the evolution of hyperlinks between artikels of the Simple English Wikipedia. The nodes represent articles. An edge indicates that a hyperlink was added or removed depending on the edge weight (-1 for removal or +1 for addition).
+
+Connection:  D
+
+Edges:       1627472
+File Size:   40113511
+Min Weight:  -1
+Max Weight:  +1
+
+Min Timestamp:       1000133972
+Max Timestamp:       1315571987
+Duration:            315438015
+Duration per Edge:   193
+Duration - Hours:    87621
+Duration - Days:     3650
+Duration - Weeks:    521
+Duration - Years:    1
+
+ADD_REMOVE;link-dynamic-simplewiki;Wikipedia;http://konect.uni-koblenz.de/networks/link-dynamic-simplewiki;D;1627472;40113511;-1;+1;1000133972;1315571987;315438015;193;87621;3650;521;1
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/bibsonomy-2ti
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       bibsonomy-2ti
+
+Title:        BibSonomy tag–publication network
+URL: 	        http://konect.uni-koblenz.de/networks/bibsonomy-2ti
+
+Description:  This is the bipartite tag–publication network from BibSonomy.  The network allows multiple edge, i.e., publications can be tagged multiple times with the same tag.  The network is complete as it is taken from the official BibSonomy dump.
+
+Connection:  B
+
+Edges:       2555080
+File Size:   64532989
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       599996400
+Max Timestamp:       1262289689
+Duration:            662293289
+Duration per Edge:   259
+Duration - Hours:    183970
+Duration - Days:     7665
+Duration - Weeks:    1095
+Duration - Years:    3
+
+MULTI;bibsonomy-2ti;BibSonomy tag–publication network;http://konect.uni-koblenz.de/networks/bibsonomy-2ti;B;2555080;64532989;1;1;599996400;1262289689;662293289;259;183970;7665;1095;3
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/bibsonomy-2ui
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       bibsonomy-2ui
+
+Title:        BibSonomy user–publication network
+URL: 	        http://konect.uni-koblenz.de/networks/bibsonomy-2ui
+
+Description:  This is the bipartite user–publication network from BibSonomy. Each edge represents a tag assignment.  The network allows multiple edge, i.e., a user may give multiple tags to a single publication.  The network is complete as it is taken from the official BibSonomy dump.
+
+Connection:  B
+
+Edges:       2555080
+File Size:   62620674
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       599996400
+Max Timestamp:       1262289689
+Duration:            662293289
+Duration per Edge:   259
+Duration - Hours:    183970
+Duration - Days:     7665
+Duration - Weeks:    1095
+Duration - Years:    3
+
+MULTI;bibsonomy-2ui;BibSonomy user–publication network;http://konect.uni-koblenz.de/networks/bibsonomy-2ui;B;2555080;62620674;1;1;599996400;1262289689;662293289;259;183970;7665;1095;3
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/bibsonomy-2ut
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       bibsonomy-2ut
+
+Title:        BibSonomy user–tag network
+URL: 	        http://konect.uni-koblenz.de/networks/bibsonomy-2ut
+
+Description:  This is the bipartite user–tag network from BibSonomy. Each edge represents a tag assignment.  The network allows multiple edge as users may use a tag for multiple documents.  The network is complete as it is taken from the official BibSonomy dump.
+
+Connection:  B
+
+Edges:       2555080
+File Size:   59163008
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       599996400
+Max Timestamp:       1262289689
+Duration:            662293289
+Duration per Edge:   259
+Duration - Hours:    183970
+Duration - Days:     7665
+Duration - Weeks:    1095
+Duration - Years:    3
+
+MULTI;bibsonomy-2ut;BibSonomy user–tag network;http://konect.uni-koblenz.de/networks/bibsonomy-2ut;B;2555080;59163008;1;1;599996400;1262289689;662293289;259;183970;7665;1095;3
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/citeulike-ti
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       citeulike-ti
+
+Title:        CiteULike tag–publication network
+URL: 	        http://konect.uni-koblenz.de/networks/citeulike-ti
+
+Description:  This is the bipartite network of tags and publications in CiteULike.  Each edge represents a tag assignment that connects a tag and a publication.  Since the same tag can be assigned to a single publication by multiple users, the network contains multiple edges. The edges are annotated with the creation time of the tag assignment. 
+
+Connection:  B
+
+Edges:       2411819
+File Size:   74593582
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       1099535105
+Max Timestamp:       1203482671
+Duration:            103947566
+Duration per Edge:   43
+Duration - Hours:    28874
+Duration - Days:     1203
+Duration - Weeks:    171
+Duration - Years:    0
+
+MULTI;citeulike-ti;CiteULike tag–publication network;http://konect.uni-koblenz.de/networks/citeulike-ti;B;2411819;74593582;1;1;1099535105;1203482671;103947566;43;28874;1203;171;0
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/citeulike-ui
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       citeulike-ui
+
+Title:        CiteULike user–publication network
+URL: 	        http://konect.uni-koblenz.de/networks/citeulike-ui
+
+Description:  This is the bipartite network of users and publications in CiteULike.  Each edge represents a tag assignment that connects a users and a publication.  Since a user can be assign multiple tags to a publication, the network contains multiple edges. The edges are annotated with the creation time of the tag assignment. 
+
+Connection:  B
+
+Edges:       2411819
+File Size:   75022153
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       1099535105
+Max Timestamp:       1203482671
+Duration:            103947566
+Duration per Edge:   43
+Duration - Hours:    28874
+Duration - Days:     1203
+Duration - Weeks:    171
+Duration - Years:    0
+
+MULTI;citeulike-ui;CiteULike user–publication network;http://konect.uni-koblenz.de/networks/citeulike-ui;B;2411819;75022153;1;1;1099535105;1203482671;103947566;43;28874;1203;171;0
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/citeulike-ut
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       citeulike-ut
+
+Title:        CiteULike user–tag network
+URL: 	        http://konect.uni-koblenz.de/networks/citeulike-ut
+
+Description:  This is the bipartite network of users and tags in CiteULike.  Each edge represents a tag assignment that connects a user and a tag.  Since a user can assign a tag to multiple publications, the network contains multiple edges. The edges are annotated with the creation time of the tag assignment. 
+
+Connection:  B
+
+Edges:       2411819
+File Size:   71113153
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       1099535105
+Max Timestamp:       1203482671
+Duration:            103947566
+Duration per Edge:   43
+Duration - Hours:    28874
+Duration - Days:     1203
+Duration - Weeks:    171
+Duration - Years:    0
+
+MULTI;citeulike-ut;CiteULike user–tag network;http://konect.uni-koblenz.de/networks/citeulike-ut;B;2411819;71113153;1;1;1099535105;1203482671;103947566;43;28874;1203;171;0
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/contact
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       contact
+
+Title:        Haggle network
+URL: 	        http://konect.uni-koblenz.de/networks/contact
+
+Description:  This undirected network represents contacts between people measured by carried wireless devices. A node represents a person; an edge between two persons shows that there was a contact between them.
+
+Connection:  U
+
+Edges:       28244
+File Size:   399272
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       20733
+Max Timestamp:       364094
+Duration:            343361
+Duration per Edge:   12
+Duration - Hours:    95
+Duration - Days:     3
+Duration - Weeks:    0
+Duration - Years:    0
+
+MULTI;contact;Haggle network;http://konect.uni-koblenz.de/networks/contact;U;28244;399272;1;1;20733;364094;343361;12;95;3;0;0
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/dblp_coauthor
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       dblp_coauthor
+
+Title:        DBLP network
+URL: 	        http://konect.uni-koblenz.de/networks/dblp_coauthor
+
+Description:  This is the collaboration graph of authors of scientific papers from DBLP computer science bibliography.  An edge between two authors represents a common publication. Edges are annotated with the date of the publication.  There may be multiple edges between two nodes, representing pairs of authors that have written multiple publications together.
+
+Connection:  U
+
+Edges:       18986618
+File Size:   518718036
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       -1009843139
+Max Timestamp:       1388534461
+Duration:            
+Duration per Edge:   
+Duration - Hours:    
+Duration - Days:     
+Duration - Weeks:    
+Duration - Years:    
+
+MULTI;dblp_coauthor;DBLP network;http://konect.uni-koblenz.de/networks/dblp_coauthor;U;18986618;518718036;1;1;-1009843139;1388534461;;;;;;
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/delicious-ti
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       delicious-ti
+
+Title:        Delicious tag–URL network
+URL: 	        http://konect.uni-koblenz.de/networks/delicious-ti
+
+Description:  This network contains tag–URL relations from http://delicious.com/. Left nodes represent tags, right nodes represent URLs and an edge shows that a URL was tagged with a tag.
+
+Connection:  B
+
+Edges:       301183605
+File Size:   7804622360
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       1062367200
+Max Timestamp:       1199055600
+Duration:            136688400
+Duration per Edge:   0
+Duration - Hours:    37969
+Duration - Days:     1582
+Duration - Weeks:    226
+Duration - Years:    0
+
+MULTI;delicious-ti;Delicious tag–URL network;http://konect.uni-koblenz.de/networks/delicious-ti;B;301183605;7804622360;1;1;1062367200;1199055600;136688400;0;37969;1582;226;0
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/delicious-ui
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       delicious-ui
+
+Title:        Delicious user–URL network
+URL: 	        http://konect.uni-koblenz.de/networks/delicious-ui
+
+Description:  This network contains user–URL relations from http://delicious.com/. Left nodes represent users, right nodes represent URLs and an edge shows that a user tagged a URL.
+
+Connection:  B
+
+Edges:       301186579
+File Size:   8341419197
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       1062367200
+Max Timestamp:       1199055600
+Duration:            136688400
+Duration per Edge:   0
+Duration - Hours:    37969
+Duration - Days:     1582
+Duration - Weeks:    226
+Duration - Years:    0
+
+MULTI;delicious-ui;Delicious user–URL network;http://konect.uni-koblenz.de/networks/delicious-ui;B;301186579;8341419197;1;1;1062367200;1199055600;136688400;0;37969;1582;226;0
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/delicious-ut
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       delicious-ut
+
+Title:        Delicious user–tag network
+URL: 	        http://konect.uni-koblenz.de/networks/delicious-ut
+
+Description:  This network contains user–tag relations from http://delicious.com/. Left nodes represent users, right nodes represent tags and an edge shows that a user tagged an URL using the tag represented by the right node.
+
+Connection:  B
+
+Edges:       301186579
+File Size:   7346504016
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       1062367200
+Max Timestamp:       1199055600
+Duration:            136688400
+Duration per Edge:   0
+Duration - Hours:    37969
+Duration - Days:     1582
+Duration - Weeks:    226
+Duration - Years:    0
+
+MULTI;delicious-ut;Delicious user–tag network;http://konect.uni-koblenz.de/networks/delicious-ut;B;301186579;7346504016;1;1;1062367200;1199055600;136688400;0;37969;1582;226;0
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/edit-dewiki
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       edit-dewiki
+
+Title:        Wikipedia (de) network
+URL: 	        http://konect.uni-koblenz.de/networks/edit-dewiki
+
+Description:  This is the bipartite edit network of the German Wikipedia. It contains users and pages from the German Wikipedia, connected by edit events. Each edge represents an edit. The dataset includes the timestamp of each edit.
+
+Connection:  B
+
+Edges:       57323775
+File Size:   1441271048
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       986236061
+Max Timestamp:       1283594871
+Duration:            297358810
+Duration per Edge:   5
+Duration - Hours:    82599
+Duration - Days:     3441
+Duration - Weeks:    491
+Duration - Years:    1
+
+MULTI;edit-dewiki;Wikipedia (de) network;http://konect.uni-koblenz.de/networks/edit-dewiki;B;57323775;1441271048;1;1;986236061;1283594871;297358810;5;82599;3441;491;1
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/edit-dewiktionary
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       edit-dewiktionary
+
+Title:        Wiktionary (de) network
+URL: 	        http://konect.uni-koblenz.de/networks/edit-dewiktionary
+
+Description:  This is the bipartite edit network of the German Wikionary. It contains users and pages from the German Wikitionary, connected by edit events. Each edge represents an edit. The dataset includes the timestamp of each edit.
+
+Connection:  B
+
+Edges:       1229501
+File Size:   27106944
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       1013645942
+Max Timestamp:       1283522716
+Duration:            269876774
+Duration per Edge:   219
+Duration - Hours:    74965
+Duration - Days:     3123
+Duration - Weeks:    446
+Duration - Years:    1
+
+MULTI;edit-dewiktionary;Wiktionary (de) network;http://konect.uni-koblenz.de/networks/edit-dewiktionary;B;1229501;27106944;1;1;1013645942;1283522716;269876774;219;74965;3123;446;1
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/edit-enwiki
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       edit-enwiki
+
+Title:        Wikipedia (en) network
+URL: 	        http://konect.uni-koblenz.de/networks/edit-enwiki
+
+Description:  This is the bipartite edit network of the English Wikipedia. It contains users and pages from the English Wikipedia, connected by edit events. Each edge represents an edit. The dataset includes the timestamp of each edit.
+
+Connection:  B
+
+Edges:       266769613
+File Size:   7117889774
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       979768389
+Max Timestamp:       1283771188
+Duration:            304002799
+Duration per Edge:   1
+Duration - Hours:    84445
+Duration - Days:     3518
+Duration - Weeks:    502
+Duration - Years:    1
+
+MULTI;edit-enwiki;Wikipedia (en) network;http://konect.uni-koblenz.de/networks/edit-enwiki;B;266769613;7117889774;1;1;979768389;1283771188;304002799;1;84445;3518;502;1
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/edit-enwikibooks
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       edit-enwikibooks
+
+Title:        Wikibooks (en) network
+URL: 	        http://konect.uni-koblenz.de/networks/edit-enwikibooks
+
+Description:  This is the bipartite edit network of the English Wikipedia. It contains users and pages from the English Wikipedia, connected by edit events. Each edge represents an edit. The dataset includes the timestamp of each edit.
+
+Connection:  B
+
+Edges:       1164576
+File Size:   27581995
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       1005798855
+Max Timestamp:       1283031674
+Duration:            277232819
+Duration per Edge:   238
+Duration - Hours:    77009
+Duration - Days:     3208
+Duration - Weeks:    458
+Duration - Years:    1
+
+MULTI;edit-enwikibooks;Wikibooks (en) network;http://konect.uni-koblenz.de/networks/edit-enwikibooks;B;1164576;27581995;1;1;1005798855;1283031674;277232819;238;77009;3208;458;1
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/edit-enwikinews
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       edit-enwikinews
+
+Title:        Wikinews (en) network
+URL: 	        http://konect.uni-koblenz.de/networks/edit-enwikinews
+
+Description:  This is the bipartite edit network of the English Wikipedia. It contains users and pages from the English Wikipedia, connected by edit events. Each edge represents an edit. The dataset includes the timestamp of each edit.
+
+Connection:  B
+
+Edges:       901416
+File Size:   20506024
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       1099901502
+Max Timestamp:       1283218245
+Duration:            183316743
+Duration per Edge:   203
+Duration - Hours:    50921
+Duration - Days:     2121
+Duration - Weeks:    303
+Duration - Years:    0
+
+MULTI;edit-enwikinews;Wikinews (en) network;http://konect.uni-koblenz.de/networks/edit-enwikinews;B;901416;20506024;1;1;1099901502;1283218245;183316743;203;50921;2121;303;0
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/edit-enwikiquote
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       edit-enwikiquote
+
+Title:        Wikiquote (en) network
+URL: 	        http://konect.uni-koblenz.de/networks/edit-enwikiquote
+
+Description:  This is the bipartite edit network of the English Wikipedia. It contains users and pages from the English Wikipedia, connected by edit events. Each edge represents an edit. The dataset includes the timestamp of each edit.
+
+Connection:  B
+
+Edges:       549210
+File Size:   12477356
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       1041639294
+Max Timestamp:       1283191468
+Duration:            241552174
+Duration per Edge:   439
+Duration - Hours:    67097
+Duration - Days:     2795
+Duration - Weeks:    399
+Duration - Years:    1
+
+MULTI;edit-enwikiquote;Wikiquote (en) network;http://konect.uni-koblenz.de/networks/edit-enwikiquote;B;549210;12477356;1;1;1041639294;1283191468;241552174;439;67097;2795;399;1
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/edit-enwiktionary
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       edit-enwiktionary
+
+Title:        Wiktionary (en) network
+URL: 	        http://konect.uni-koblenz.de/networks/edit-enwiktionary
+
+Description:  This is the bipartite edit network of the English Wiktionary. It contains users and pages from the English Wiktionary, connected by edit events. Each edge represents an edit. The dataset includes the timestamp of each edit.
+
+Connection:  B
+
+Edges:       8998641
+File Size:   215921110
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       987260484
+Max Timestamp:       1283377300
+Duration:            296116816
+Duration per Edge:   32
+Duration - Hours:    82254
+Duration - Days:     3427
+Duration - Weeks:    489
+Duration - Years:    1
+
+MULTI;edit-enwiktionary;Wiktionary (en) network;http://konect.uni-koblenz.de/networks/edit-enwiktionary;B;8998641;215921110;1;1;987260484;1283377300;296116816;32;82254;3427;489;1
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/edit-eswiki
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       edit-eswiki
+
+Title:        Wikipedia (es) network
+URL: 	        http://konect.uni-koblenz.de/networks/edit-eswiki
+
+Description:  This is the bipartite edit network of the Spanish Wikipedia. It contains users and pages from the Spanish Wikipedia, connected by edit events. Each edge represents an edit. The dataset includes the timestamp of each edit.
+
+Connection:  B
+
+Edges:       27011506
+File Size:   665560060
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       1017217136
+Max Timestamp:       1283116655
+Duration:            265899519
+Duration per Edge:   9
+Duration - Hours:    73860
+Duration - Days:     3077
+Duration - Weeks:    439
+Duration - Years:    1
+
+MULTI;edit-eswiki;Wikipedia (es) network;http://konect.uni-koblenz.de/networks/edit-eswiki;B;27011506;665560060;1;1;1017217136;1283116655;265899519;9;73860;3077;439;1
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/edit-frwiki
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       edit-frwiki
+
+Title:        Wikipedia (fr) network
+URL: 	        http://konect.uni-koblenz.de/networks/edit-frwiki
+
+Description:  This is the bipartite edit network of the French Wikipedia. It contains users and pages from the French Wikipedia, connected by edit events. Each edge represents an edit. The dataset includes the timestamp of each edit.
+
+Connection:  B
+
+Edges:       46168355
+File Size:   1145985269
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       1036059361
+Max Timestamp:       1283302334
+Duration:            247242973
+Duration per Edge:   5
+Duration - Hours:    68678
+Duration - Days:     2861
+Duration - Weeks:    408
+Duration - Years:    1
+
+MULTI;edit-frwiki;Wikipedia (fr) network;http://konect.uni-koblenz.de/networks/edit-frwiki;B;46168355;1145985269;1;1;1036059361;1283302334;247242973;5;68678;2861;408;1
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/edit-frwikibooks
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       edit-frwikibooks
+
+Title:        Wikibooks (fr) network
+URL: 	        http://konect.uni-koblenz.de/networks/edit-frwikibooks
+
+Description:  This is the bipartite edit network of the French Wikipedia. It contains users and pages from the French Wikipedia, connected by edit events. Each edge represents an edit. The dataset includes the timestamp of each edit.
+
+Connection:  B
+
+Edges:       201727
+File Size:   4397572
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       1014452530
+Max Timestamp:       1283235484
+Duration:            268782954
+Duration per Edge:   1332
+Duration - Hours:    74661
+Duration - Days:     3110
+Duration - Weeks:    444
+Duration - Years:    1
+
+MULTI;edit-frwikibooks;Wikibooks (fr) network;http://konect.uni-koblenz.de/networks/edit-frwikibooks;B;201727;4397572;1;1;1014452530;1283235484;268782954;1332;74661;3110;444;1
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/edit-frwikinews
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       edit-frwikinews
+
+Title:        Wikinews (fr) network
+URL: 	        http://konect.uni-koblenz.de/networks/edit-frwikinews
+
+Description:  This is the bipartite edit network of the French Wikipedia. It contains users and pages from the French Wikipedia, connected by edit events. Each edge represents an edit. The dataset includes the timestamp of each edit.
+
+Connection:  B
+
+Edges:       193618
+File Size:   4179236
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       1070606520
+Max Timestamp:       1283257812
+Duration:            212651292
+Duration per Edge:   1098
+Duration - Hours:    59069
+Duration - Days:     2461
+Duration - Weeks:    351
+Duration - Years:    0
+
+MULTI;edit-frwikinews;Wikinews (fr) network;http://konect.uni-koblenz.de/networks/edit-frwikinews;B;193618;4179236;1;1;1070606520;1283257812;212651292;1098;59069;2461;351;0
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/edit-frwiktionary
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       edit-frwiktionary
+
+Title:        Wiktionary (fr) network
+URL: 	        http://konect.uni-koblenz.de/networks/edit-frwiktionary
+
+Description:  This is the bipartite edit network of the French Wiktionary. It contains users and pages from the French Wiktionary, connected by edit events. Each edge represents an edit. The dataset includes the timestamp of each edit.
+
+Connection:  B
+
+Edges:       7399298
+File Size:   171869348
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       1032721456
+Max Timestamp:       1283702846
+Duration:            250981390
+Duration per Edge:   33
+Duration - Hours:    69717
+Duration - Days:     2904
+Duration - Weeks:    414
+Duration - Years:    1
+
+MULTI;edit-frwiktionary;Wiktionary (fr) network;http://konect.uni-koblenz.de/networks/edit-frwiktionary;B;7399298;171869348;1;1;1032721456;1283702846;250981390;33;69717;2904;414;1
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/edit-itwiki
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       edit-itwiki
+
+Title:        Wikipedia (it) network
+URL: 	        http://konect.uni-koblenz.de/networks/edit-itwiki
+
+Description:  This is the bipartite edit network of the Italian Wikipedia. It contains users and pages from the Italian Wikipedia, connected by edit events. Each edge represents an edit. The dataset includes the timestamp of each edit.
+
+Connection:  B
+
+Edges:       26241217
+File Size:   641594673
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       1041638615
+Max Timestamp:       1283475084
+Duration:            241836469
+Duration per Edge:   9
+Duration - Hours:    67176
+Duration - Days:     2799
+Duration - Weeks:    399
+Duration - Years:    1
+
+MULTI;edit-itwiki;Wikipedia (it) network;http://konect.uni-koblenz.de/networks/edit-itwiki;B;26241217;641594673;1;1;1041638615;1283475084;241836469;9;67176;2799;399;1
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/enron
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       enron
+
+Title:        Enron network
+URL: 	        http://konect.uni-koblenz.de/networks/enron
+
+Description:  The Enron email network consists of 1,148,072 emails sent between employees of Enron between 1999 and 2003. Nodes in the network are individual employees and edges are individual emails.  It is possible to send an email to oneself, and thus this network contains loops. 
+
+Connection:  D
+
+Edges:       1148072
+File Size:   25885126
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       315532800
+Max Timestamp:       1716720597
+Duration:            1401187797
+Duration per Edge:   1220
+Duration - Hours:    389218
+Duration - Days:     16217
+Duration - Weeks:    2316
+Duration - Years:    6
+
+MULTI;enron;Enron network;http://konect.uni-koblenz.de/networks/enron;D;1148072;25885126;1;1;315532800;1716720597;1401187797;1220;389218;16217;2316;6
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/facebook-wosn-wall
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       facebook-wosn-wall
+
+Title:        Facebook wall posts network
+URL: 	        http://konect.uni-koblenz.de/networks/facebook-wosn-wall
+
+Description:  The is the directed network of a small subset of posts to other user's wall on Facebook.  The nodes of the network are Facebook users, and each directed edge represents one post, linking the users writing a post to the users whose wall the post is written on.  Since users may write multiple posts on a wall, the network allows multiple edges connecting a single node pair.  Since users may write on their own wall, the network contains loops.
+
+Connection:  D
+
+Edges:       876993
+File Size:   21678810
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       1095135831
+Max Timestamp:       1232598691
+Duration:            137462860
+Duration per Edge:   156
+Duration - Hours:    38184
+Duration - Days:     1591
+Duration - Weeks:    227
+Duration - Years:    0
+
+MULTI;facebook-wosn-wall;Facebook wall posts network;http://konect.uni-koblenz.de/networks/facebook-wosn-wall;D;876993;21678810;1;1;1095135831;1232598691;137462860;156;38184;1591;227;0
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/lastfm_band
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       lastfm_band
+
+Title:        Last.fm band network
+URL: 	        http://konect.uni-koblenz.de/networks/lastfm_band
+
+Description:  This bipartite network contains user–band listening events from the music website last.fm. An edge shows that a user listened to a song of a band.
+
+Connection:  B
+
+Edges:       19150868
+File Size:   422588606
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       1108339207
+Max Timestamp:       1380479524
+Duration:            272140317
+Duration per Edge:   14
+Duration - Hours:    75594
+Duration - Days:     3149
+Duration - Weeks:    449
+Duration - Years:    1
+
+MULTI;lastfm_band;Last.fm band network;http://konect.uni-koblenz.de/networks/lastfm_band;B;19150868;422588606;1;1;1108339207;1380479524;272140317;14;75594;3149;449;1
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/lastfm_song
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       lastfm_song
+
+Title:        Last.fm song network
+URL: 	        http://konect.uni-koblenz.de/networks/lastfm_song
+
+Description:  This bipartite network represent the user–song listening habits of last.fm users. Left nodes are users and right nodes are songs. An edge connects users and songs they have listened to.
+
+Connection:  B
+
+Edges:       19150868
+File Size:   443885854
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       1108339207
+Max Timestamp:       1380479524
+Duration:            272140317
+Duration per Edge:   14
+Duration - Hours:    75594
+Duration - Days:     3149
+Duration - Weeks:    449
+Duration - Years:    1
+
+MULTI;lastfm_song;Last.fm song network;http://konect.uni-koblenz.de/networks/lastfm_song;B;19150868;443885854;1;1;1108339207;1380479524;272140317;14;75594;3149;449;1
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/lkml_person-thread
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       lkml_person-thread
+
+Title:        Linux kernel network
+URL: 	        http://konect.uni-koblenz.de/networks/lkml_person-thread
+
+Description:  This bipartite network contains contributions of persons to various threads of the linux kernel mailing list. An edge represents a contribution. Left nodes are persons and right nodes represent threads in the mailing list.  
+
+Connection:  B
+
+Edges:       1565683
+File Size:   37855686
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       315782782
+Max Timestamp:       1399453372
+Duration:            1083670590
+Duration per Edge:   692
+Duration - Hours:    301019
+Duration - Days:     12542
+Duration - Weeks:    1791
+Duration - Years:    5
+
+MULTI;lkml_person-thread;Linux kernel network;http://konect.uni-koblenz.de/networks/lkml_person-thread;B;1565683;37855686;1;1;315782782;1399453372;1083670590;692;301019;12542;1791;5
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/lkml-reply
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       lkml-reply
+
+Title:        Linux kernel mailing list replies network
+URL: 	        http://konect.uni-koblenz.de/networks/lkml-reply
+
+Description:  The is the communication network of the Linux kernel mailing list.  Nodes are persons (identified by their email addresses), and each directed edge represents a reply from a user to another. 
+
+Connection:  D
+
+Edges:       1096440
+File Size:   23935033
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       1136080607
+Max Timestamp:       1388528616
+Duration:            252448009
+Duration per Edge:   230
+Duration - Hours:    70124
+Duration - Days:     2921
+Duration - Weeks:    417
+Duration - Years:    1
+
+MULTI;lkml-reply;Linux kernel mailing list replies network;http://konect.uni-koblenz.de/networks/lkml-reply;D;1096440;23935033;1;1;1136080607;1388528616;252448009;230;70124;2921;417;1
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/mit
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       mit
+
+Title:        Reality Mining network
+URL: 	        http://konect.uni-koblenz.de/networks/mit
+
+Description:  This undirected network contains human contact data among 100 students of the Massachusetts Institute of Technology (MIT), collected by the Reality Mining experiment performed in 2004 as part of the Reality Commons project. The data was collected over 9 months using 100 mobile phones. A node represents a person; an edge indicates that the corresponding nodes had physical contact.
+
+Connection:  U
+
+Edges:       1086404
+File Size:   21390544
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       1095183096
+Max Timestamp:       1115253696
+Duration:            20070600
+Duration per Edge:   18
+Duration - Hours:    5575
+Duration - Days:     232
+Duration - Weeks:    33
+Duration - Years:    0
+
+MULTI;mit;Reality Mining network;http://konect.uni-koblenz.de/networks/mit;U;1086404;21390544;1;1;1095183096;1115253696;20070600;18;5575;232;33;0
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/movielens-10m_ti
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       movielens-10m_ti
+
+Title:        MovieLens tag–movie network
+URL: 	        http://konect.uni-koblenz.de/networks/movielens-10m_ti
+
+Description:  This bipartite network consists of 100,000 tags applied to 10,000 movies from http://movielens.umn.edu/. Left nodes are tags and right nodes are movies. An edge shows that a tag was applied to a movie.
+
+Connection:  B
+
+Edges:       95580
+File Size:   2136387
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       1135313387
+Max Timestamp:       1231128790
+Duration:            95815403
+Duration per Edge:   1002
+Duration - Hours:    26615
+Duration - Days:     1108
+Duration - Weeks:    158
+Duration - Years:    0
+
+MULTI;movielens-10m_ti;MovieLens tag–movie network;http://konect.uni-koblenz.de/networks/movielens-10m_ti;B;95580;2136387;1;1;1135313387;1231128790;95815403;1002;26615;1108;158;0
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/movielens-10m_ui
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       movielens-10m_ui
+
+Title:        MovieLens user–movie network
+URL: 	        http://konect.uni-koblenz.de/networks/movielens-10m_ui
+
+Description:  This bipartite network consists of 72,000 users who applied tags to 10,000 movies from http://movielens.umn.edu/. Left nodes represent users and right nodes represent movies. An edge connects a user with a movie he has assigned a tag to.
+
+Connection:  B
+
+Edges:       95580
+File Size:   2136496
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       1135313387
+Max Timestamp:       1231128790
+Duration:            95815403
+Duration per Edge:   1002
+Duration - Hours:    26615
+Duration - Days:     1108
+Duration - Weeks:    158
+Duration - Years:    0
+
+MULTI;movielens-10m_ui;MovieLens user–movie network;http://konect.uni-koblenz.de/networks/movielens-10m_ui;B;95580;2136496;1;1;1135313387;1231128790;95815403;1002;26615;1108;158;0
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/movielens-10m_ut
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       movielens-10m_ut
+
+Title:        MovieLens user–tag network
+URL: 	        http://konect.uni-koblenz.de/networks/movielens-10m_ut
+
+Description:  This bipartite network shows the tagging behaviour of 72,000 users of http://movielens.umn.edu/. Left nodes are users and right nodes are tags. An edge connects a user with a tag he applied to a movie.
+
+Connection:  B
+
+Edges:       95580
+File Size:   2143835
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       1135313387
+Max Timestamp:       1231128790
+Duration:            95815403
+Duration per Edge:   1002
+Duration - Hours:    26615
+Duration - Days:     1108
+Duration - Weeks:    158
+Duration - Years:    0
+
+MULTI;movielens-10m_ut;MovieLens user–tag network;http://konect.uni-koblenz.de/networks/movielens-10m_ut;B;95580;2143835;1;1;1135313387;1231128790;95815403;1002;26615;1108;158;0
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/munmun_digg_reply
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       munmun_digg_reply
+
+Title:        Digg network
+URL: 	        http://konect.uni-koblenz.de/networks/munmun_digg_reply
+
+Description:  This is the reply network of the social news website Digg. Each node in the network is a user of the website, and each directed edge denotes that a user replied to another user.
+
+Connection:  D
+
+Edges:       87627
+File Size:   2055971
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       1225229529
+Max Timestamp:       1226536024
+Duration:            1306495
+Duration per Edge:   14
+Duration - Hours:    362
+Duration - Days:     15
+Duration - Weeks:    2
+Duration - Years:    0
+
+MULTI;munmun_digg_reply;Digg network;http://konect.uni-koblenz.de/networks/munmun_digg_reply;D;87627;2055971;1;1;1225229529;1226536024;1306495;14;362;15;2;0
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/opsahl-ucforum
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       opsahl-ucforum
+
+Title:        UC Irvine forum network
+URL: 	        http://konect.uni-koblenz.de/networks/opsahl-ucforum
+
+Description:  This bipartite network contains user posts to forums. The users are students at the University of California, Irvine. An edge represents a forum message.  
+
+Connection:  B
+
+Edges:       33720
+File Size:   683925
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       1084560796
+Max Timestamp:       1098772901
+Duration:            14212105
+Duration per Edge:   421
+Duration - Hours:    3947
+Duration - Days:     164
+Duration - Weeks:    23
+Duration - Years:    0
+
+MULTI;opsahl-ucforum;UC Irvine forum network;http://konect.uni-koblenz.de/networks/opsahl-ucforum;B;33720;683925;1;1;1084560796;1098772901;14212105;421;3947;164;23;0
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/opsahl-ucsocial
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       opsahl-ucsocial
+
+Title:        UC Irvine messages network
+URL: 	        http://konect.uni-koblenz.de/networks/opsahl-ucsocial
+
+Description:  This directed network contains sent messages between the users of an online community of students from the University of California, Irvine. A node represents a user. A directed edge represents a sent message. Multiple edges denote multiple messages. 
+
+Connection:  D
+
+Edges:       59835
+File Size:   1270109
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       1082008561
+Max Timestamp:       1098744742
+Duration:            16736181
+Duration per Edge:   279
+Duration - Hours:    4648
+Duration - Days:     193
+Duration - Weeks:    27
+Duration - Years:    0
+
+MULTI;opsahl-ucsocial;UC Irvine messages network;http://konect.uni-koblenz.de/networks/opsahl-ucsocial;D;59835;1270109;1;1;1082008561;1098744742;16736181;279;4648;193;27;0
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/prosper-loans
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       prosper-loans
+
+Title:        Prosper loans network
+URL: 	        http://konect.uni-koblenz.de/networks/prosper-loans
+
+Description:  These are loans between users of the Prosper.com website.  The network is directed and denotes who loaned money to whom. 
+
+Connection:  D
+
+Edges:       3394979
+File Size:   82766857
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       1132012800
+Max Timestamp:       1317081600
+Duration:            185068800
+Duration per Edge:   54
+Duration - Hours:    51408
+Duration - Days:     2142
+Duration - Weeks:    306
+Duration - Years:    0
+
+MULTI;prosper-loans;Prosper loans network;http://konect.uni-koblenz.de/networks/prosper-loans;D;3394979;82766857;1;1;1132012800;1317081600;185068800;54;51408;2142;306;0
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/radoslaw_email
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       radoslaw_email
+
+Title:        Manufacturing emails network
+URL: 	        http://konect.uni-koblenz.de/networks/radoslaw_email
+
+Description:  This is the internal email communication network between employees of a mid-sized manufacturing company. The network is directed and nodes represent employees. The left node represents the sender and the right node represents the recipient. Edges between two nodes are individual emails. 
+
+Connection:  D
+
+Edges:       82927
+File Size:   1723385
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       1262454010
+Max Timestamp:       1285884492
+Duration:            23430482
+Duration per Edge:   282
+Duration - Hours:    6508
+Duration - Days:     271
+Duration - Weeks:    38
+Duration - Years:    0
+
+MULTI;radoslaw_email;Manufacturing emails network;http://konect.uni-koblenz.de/networks/radoslaw_email;D;82927;1723385;1;1;1262454010;1285884492;23430482;282;6508;271;38;0
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/slashdot-threads
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       slashdot-threads
+
+Title:        Slashdot threads network
+URL: 	        http://konect.uni-koblenz.de/networks/slashdot-threads
+
+Description:  This is the reply network of technology website Slashdot.  Nodes are users and edges are replies. The edges are directed and start from the responding user. Edges are annotated with the timestamp of the reply.
+
+Connection:  D
+
+Edges:       140778
+File Size:   3348629
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       0
+Max Timestamp:       1157361660
+Duration:            1157361660
+Duration per Edge:   8221
+Duration - Hours:    321489
+Duration - Days:     13395
+Duration - Weeks:    1913
+Duration - Years:    5
+
+MULTI;slashdot-threads;Slashdot threads network;http://konect.uni-koblenz.de/networks/slashdot-threads;D;140778;3348629;1;1;0;1157361660;1157361660;8221;321489;13395;1913;5
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/sociopatterns-hypertext
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       sociopatterns-hypertext
+
+Title:        Hypertext 2009 network
+URL: 	        http://konect.uni-koblenz.de/networks/sociopatterns-hypertext
+
+Description:  This is the network of face-to-face contacts of the attendees of the ACM Hypertext 2009 conference. The ACM Conference on Hypertext and Hypermedia 2009 (HT 2009, http://www.ht2009.org/) was held in Turin, Italy over three days from June 29 to July 1, 2009. In the network, a node represents a conference visitor, and an edge represents a face-to-face contact that was active for at least 20 seconds. Multiple edges denote multiple contacts. Each edge is annotated with the time at which the contact took place. 
+
+Connection:  U
+
+Edges:       20818
+File Size:   393999
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       1246255220
+Max Timestamp:       1246467560
+Duration:            212340
+Duration per Edge:   10
+Duration - Hours:    58
+Duration - Days:     2
+Duration - Weeks:    0
+Duration - Years:    0
+
+MULTI;sociopatterns-hypertext;Hypertext 2009 network;http://konect.uni-koblenz.de/networks/sociopatterns-hypertext;U;20818;393999;1;1;1246255220;1246467560;212340;10;58;2;0;0
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/sociopatterns-infectious
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       sociopatterns-infectious
+
+Title:        Infectious network
+URL: 	        http://konect.uni-koblenz.de/networks/sociopatterns-infectious
+
+Description:  This network describes the face-to-face behavior of people during the exhibition INFECTIOUS: STAY AWAY in 2009 at the Science Gallery in Dublin. Nodes represent exhibition visitors; edges represent face-to-face contacts that were active for at least 20 seconds. Multiple edges between two nodes are possible and denote multiple contacts. The network contains the data from the day with the most interactions.
+
+Connection:  U
+
+Edges:       17298
+File Size:   354551
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       1247652139
+Max Timestamp:       1247680559
+Duration:            28420
+Duration per Edge:   1
+Duration - Hours:    7
+Duration - Days:     0
+Duration - Weeks:    0
+Duration - Years:    0
+
+MULTI;sociopatterns-infectious;Infectious network;http://konect.uni-koblenz.de/networks/sociopatterns-infectious;U;17298;354551;1;1;1247652139;1247680559;28420;1;7;0;0;0
+- - - - - - - - - - - - - - - - - - - -
+- - - MULTI/topology
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  MULTI
+Name:       topology
+
+Title:        Internet topology network
+URL: 	        http://konect.uni-koblenz.de/networks/topology
+
+Description:  This is the network of connections between autonomous systems of the Internet. The nodes are autonomous systems (AS), i.e. collections of connected IP routing prefixes controlled by independent network operators. Edges are connections between autonomous systems. Multiple edges may connect two nodes, each representing an individual connection in time. Edges are annotated with the timepoint of the connection.
+
+Connection:  U
+
+Edges:       171403
+File Size:   3755566
+Min Weight:  1
+Max Weight:  1
+
+Min Timestamp:       1266192000
+Max Timestamp:       1268208004
+Duration:            2016004
+Duration per Edge:   11
+Duration - Hours:    560
+Duration - Days:     23
+Duration - Weeks:    3
+Duration - Years:    0
+
+MULTI;topology;Internet topology network;http://konect.uni-koblenz.de/networks/topology;U;171403;3755566;1;1;1266192000;1268208004;2016004;11;560;23;3;0
+- - - - - - - - - - - - - - - - - - - -
+- - - WEIGHTED/amazon-ratings
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  WEIGHTED
+Name:       amazon-ratings
+
+Title:        Amazon ratings network
+URL: 	        http://konect.uni-koblenz.de/networks/amazon-ratings
+
+Description:  This bipartite network contains product ratings from the Amazon online shopping website. The rating scale ranges from 1 to 5, where 5 denotes the most positive rating. Nodes represent users and products, and edges represent individual ratings. 
+
+Connection:  B
+
+Edges:       5838041
+File Size:   164112486
+Min Weight:  1.0
+Max Weight:  5.0
+
+Min Timestamp:       833493600
+Max Timestamp:       1148853600
+Duration:            315360000
+Duration per Edge:   54
+Duration - Hours:    87600
+Duration - Days:     3650
+Duration - Weeks:    521
+Duration - Years:    1
+
+WEIGHTED;amazon-ratings;Amazon ratings network;http://konect.uni-koblenz.de/networks/amazon-ratings;B;5838041;164112486;1.0;5.0;833493600;1148853600;315360000;54;87600;3650;521;1
+- - - - - - - - - - - - - - - - - - - -
+- - - WEIGHTED/elec
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  WEIGHTED
+Name:       elec
+
+Title:        Wikipedia elections network
+URL: 	        http://konect.uni-koblenz.de/networks/elec
+
+Description:  This is the network of users from the English Wikipedia that voted for and against each other in admin elections. Nodes represent individual users, and edges represent votes. Edges can be positive ("for" vote) and negative ("against" vote). Each edge is annotated with the date of the vote. In the original dataset from the SNAP website, certain timestamps are from after 2050; the corresponding edges are not included in this version of the network.tags: #incomplete #loop
+
+Connection:  D
+
+Edges:       103675
+File Size:   2358787
+Min Weight:  -1
+Max Weight:  1
+
+Min Timestamp:       1080493920
+Max Timestamp:       1199582160
+Duration:            119088240
+Duration per Edge:   1148
+Duration - Hours:    33080
+Duration - Days:     1378
+Duration - Weeks:    196
+Duration - Years:    0
+
+WEIGHTED;elec;Wikipedia elections network;http://konect.uni-koblenz.de/networks/elec;D;103675;2358787;-1;1;1080493920;1199582160;119088240;1148;33080;1378;196;0
+- - - - - - - - - - - - - - - - - - - -
+- - - WEIGHTED/epinions
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  WEIGHTED
+Name:       epinions
+
+Title:        Epinions trust network
+URL: 	        http://konect.uni-koblenz.de/networks/epinions
+
+Description:  This is the trust and distrust network of Epinions, an online product rating site. The network consist of individual users connected by directed trust and distrust links. Edges have the weight +1 for trust and −1 for distrust. Note that a user can trust or distrust himself, and therefore the network contains loops.
+
+Connection:  D
+
+Edges:       841372
+File Size:   19793833
+Min Weight:  -1
+Max Weight:  1
+
+Min Timestamp:       979081200
+Max Timestamp:       1060639200
+Duration:            81558000
+Duration per Edge:   96
+Duration - Hours:    22655
+Duration - Days:     943
+Duration - Weeks:    134
+Duration - Years:    0
+
+WEIGHTED;epinions;Epinions trust network;http://konect.uni-koblenz.de/networks/epinions;D;841372;19793833;-1;1;979081200;1060639200;81558000;96;22655;943;134;0
+- - - - - - - - - - - - - - - - - - - -
+- - - WEIGHTED/epinions-rating
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  WEIGHTED
+Name:       epinions-rating
+
+Title:        Epinions product ratings network
+URL: 	        http://konect.uni-koblenz.de/networks/epinions-rating
+
+Description:  This is the bipartite rating network of Epinions, an online product rating site.  The nodes of the network are users and products, and each edge connects a user with a product and represents a rating. The weight of the edge is the rating value.
+
+Connection:  B
+
+Edges:       13668320
+File Size:   324239023
+Min Weight:  1
+Max Weight:  5
+
+Min Timestamp:       979081200
+Max Timestamp:       1022709600
+Duration:            43628400
+Duration per Edge:   3
+Duration - Hours:    12119
+Duration - Days:     504
+Duration - Weeks:    72
+Duration - Years:    0
+
+WEIGHTED;epinions-rating;Epinions product ratings network;http://konect.uni-koblenz.de/networks/epinions-rating;B;13668320;324239023;1;5;979081200;1022709600;43628400;3;12119;504;72;0
+- - - - - - - - - - - - - - - - - - - -
+- - - WEIGHTED/moreno_vdb
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  WEIGHTED
+Name:       moreno_vdb
+
+Title:        Dutch college network
+URL: 	        http://konect.uni-koblenz.de/networks/moreno_vdb
+
+Description:  This directed network contains friendship ratings between 32 university freshmen who mostly did not know each other before starting university. Each student was asked to rate the other student at seven different time points. Please note that the origin of the timestamps is not accurately known but the distance between two timestamps is correct. A node represents a student and an edge between two students shows that the left rated the right one The edge weights show how good their friendship is in the eye of the left node. The weight ranges from -1 for risk of getting into conflict to +3 for best friend.
+
+Connection:  D
+
+Edges:       3062
+File Size:   54563
+Min Weight:  -1
+Max Weight:  +3
+
+Min Timestamp:       913330800
+Max Timestamp:       927846000
+Duration:            14515200
+Duration per Edge:   4740
+Duration - Hours:    4032
+Duration - Days:     168
+Duration - Weeks:    24
+Duration - Years:    0
+
+WEIGHTED;moreno_vdb;Dutch college network;http://konect.uni-koblenz.de/networks/moreno_vdb;D;3062;54563;-1;+3;913330800;927846000;14515200;4740;4032;168;24;0
+- - - - - - - - - - - - - - - - - - - -
+- - - WEIGHTED/movielens-100k_rating
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  WEIGHTED
+Name:       movielens-100k_rating
+
+Title:        MovieLens 100k network
+URL: 	        http://konect.uni-koblenz.de/networks/movielens-100k_rating
+
+Description:  This bipartite network consists of 100,000 user–movie ratings from http://movielens.umn.edu/. Left nodes are users and right nodes are movies. An edge between a user and a movie represents a rating of the movie by the user.
+
+Connection:  B
+
+Edges:       100000
+File Size:   1979173
+Min Weight:  1
+Max Weight:  5
+
+Min Timestamp:       874724710
+Max Timestamp:       893286638
+Duration:            18561928
+Duration per Edge:   185
+Duration - Hours:    5156
+Duration - Days:     214
+Duration - Weeks:    30
+Duration - Years:    0
+
+WEIGHTED;movielens-100k_rating;MovieLens 100k network;http://konect.uni-koblenz.de/networks/movielens-100k_rating;B;100000;1979173;1;5;874724710;893286638;18561928;185;5156;214;30;0
+- - - - - - - - - - - - - - - - - - - -
+- - - WEIGHTED/movielens-10m_rating
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  WEIGHTED
+Name:       movielens-10m_rating
+
+Title:        MovieLens 10M network
+URL: 	        http://konect.uni-koblenz.de/networks/movielens-10m_rating
+
+Description:  This bipartite network contains ten million movie ratings from http://movielens.umn.edu/. Left nodes are users and right nodes are movies. An edge between a user and a movie indicates that the user has rated the movie with the rating value attached to the edge.
+
+Connection:  B
+
+Edges:       10000054
+File Size:   231783235
+Min Weight:  0.5
+Max Weight:  5
+
+Min Timestamp:       789652009
+Max Timestamp:       1231131736
+Duration:            441479727
+Duration per Edge:   44
+Duration - Hours:    122633
+Duration - Days:     5109
+Duration - Weeks:    729
+Duration - Years:    2
+
+WEIGHTED;movielens-10m_rating;MovieLens 10M network;http://konect.uni-koblenz.de/networks/movielens-10m_rating;B;10000054;231783235;0.5;5;789652009;1231131736;441479727;44;122633;5109;729;2
+- - - - - - - - - - - - - - - - - - - -
+- - - WEIGHTED/movielens-1m
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  WEIGHTED
+Name:       movielens-1m
+
+Title:        MovieLens 1M network
+URL: 	        http://konect.uni-koblenz.de/networks/movielens-1m
+
+Description:  This bipartite network contains one million movie ratings from http://movielens.umn.edu/. Left nodes are users and right nodes are movies. An edge between a user and a movie shows that the user has rated the movie. 
+
+Connection:  B
+
+Edges:       1000209
+File Size:   21114209
+Min Weight:  1
+Max Weight:  5
+
+Min Timestamp:       956703932
+Max Timestamp:       1046454590
+Duration:            89750658
+Duration per Edge:   89
+Duration - Hours:    24930
+Duration - Days:     1038
+Duration - Weeks:    148
+Duration - Years:    0
+
+WEIGHTED;movielens-1m;MovieLens 1M network;http://konect.uni-koblenz.de/networks/movielens-1m;B;1000209;21114209;1;5;956703932;1046454590;89750658;89;24930;1038;148;0
+- - - - - - - - - - - - - - - - - - - -
+- - - WEIGHTED/wikiconflict
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  WEIGHTED
+Name:       wikiconflict
+
+Title:        Wikipedia conflict network
+URL: 	        http://konect.uni-koblenz.de/networks/wikiconflict
+
+Description:  The edges in this network represent positive and negative conflicts between users of the English Wikipedia, for example users involved in an edit-war. A node represents a user and an edge represents a conflict between two users, with the edge sign representing positive and negative interactions.
+
+Connection:  U
+
+Edges:       2917785
+File Size:   121709039
+Min Weight:  -12.460462894177553
+Max Weight:  9.619000370980867
+
+Min Timestamp:       998892106
+Max Timestamp:       1237896899
+Duration:            239004793
+Duration per Edge:   81
+Duration - Hours:    66390
+Duration - Days:     2766
+Duration - Weeks:    395
+Duration - Years:    1
+
+WEIGHTED;wikiconflict;Wikipedia conflict network;http://konect.uni-koblenz.de/networks/wikiconflict;U;2917785;121709039;-12.460462894177553;9.619000370980867;998892106;1237896899;239004793;81;66390;2766;395;1
+- - - - - - - - - - - - - - - - - - - -
+- - - ZZZ/escorts
+- - - - - - - - - - - - - - - - - - - -
+
+Edge Type:  ZZZ
+Name:       escorts
+
+Title:        Sexual escorts network
+URL: 	        http://konect.uni-koblenz.de/networks/escorts
+
+Description:  This is the bipartite network of sex buyers and their escorts. Nodes are buyers and escorts. An edge denotes sexual intercourse between a male sex-buyer and a female escort. Edges are weighted with the rating of the escort given by the buyer. Three ratings are possible: bad (−1), neutral (0), good (+1).
+
+Connection:  B
+
+Edges:       50632
+File Size:   1143982
+Min Weight:  -1
+Max Weight:  1
+
+Min Timestamp:       1030831200
+Max Timestamp:       1223676000
+Duration:            192844800
+Duration per Edge:   3808
+Duration - Hours:    53568
+Duration - Days:     2232
+Duration - Weeks:    318
+Duration - Years:    0
+
+ZZZ;escorts;Sexual escorts network;http://konect.uni-koblenz.de/networks/escorts;B;50632;1143982;-1;1;1030831200;1223676000;192844800;3808;53568;2232;318;0
