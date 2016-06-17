@@ -21,7 +21,7 @@ import dna.metrics.clustering.UndirectedClusteringCoefficientR;
 import dna.metrics.degree.DegreeDistributionR;
 import dna.metrics.motifs.DirectedMotifsR;
 import dna.metrics.motifs.UndirectedMotifsR;
-import dna.metrics.paths.UnweightedAllPairsShortestPathsR;
+import dna.metrics.paths.unweighted.UnweightedAllPairsShortestPathsR;
 import dna.metrics.weights.EdgeWeightsR;
 import dna.metrics.weights.NodeWeightsR;
 import dna.plot.Plotting;
